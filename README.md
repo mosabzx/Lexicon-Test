@@ -21,4 +21,5 @@ Function that takes input from the user (First name, Last name, Age) and then pr
 14. Function where the user submits a number of values ​​(comma-separated numbers) which are then sorted and printed according to odd and even values.
 15. Function where the user enters a number of values ​​(comma-separated digits) which are then added and printed.
 16. Function where the user must enter the name of his character and the name of an opponent. The function must then itself add random values ​​for Health, Strength and Luck, which are saved in an instance of a class.
+
 Good luck!
